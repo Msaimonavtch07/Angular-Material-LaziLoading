@@ -1,20 +1,35 @@
 {
   "users": [
     {
-      "id": "1",
-      "usuario": "John Doe",
+      "id": 1,
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
   "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
+    },
     {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
-      "alt_img": "https://149455152.v2.pressablecdn.com/wp-content/uploads/2018/01/Flash-Annual-1-cover.jpg"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
     },
     {
       "id": "dc-green",
@@ -23,6 +38,14 @@
       "alter_ego": "Alan Scott",
       "first_appearance": "All-American Comics #16",
       "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen"
     },
     {
       "id": "dc-wonder",
@@ -143,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "",
-      "superhero": "saimon ",
-      "publisher": "DC Comics",
-      "alter_ego": "Deap pool",
-      "first_appearance": "Comic 2018 #1",
-      "characters": "Pool",
-      "alt_img": "https://www.solofondos.com/wp-content/uploads/2016/02/c467e1f310476a9a4033ec093192b84c.jpg"
     }
   ]
 }
